@@ -48,7 +48,7 @@ body {
   place-items: center;
   color: #fff;
   font-weight: 700;
-  font-size: clamp(18px, 4vw, 24px);  /* Dynamically adjusts font size */
+  font-size: clamp(11px, 4vw, 24px);  /* Dynamically adjusts font size */
   text-align: center;
   animation: gentle 2.2s ease-in-out infinite;
   pointer-events: none;
@@ -135,3 +135,4 @@ body {
     font-size: 16px;  /* Adjust greeting slide text */
   }
 }
+
